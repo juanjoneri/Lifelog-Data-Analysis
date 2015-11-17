@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <item name="red" type="color">#F44336</item>
+    <item name="pink" type="color">#E91E63</item>
+    <item name="purple" type="color">#9C27B0</item>
+    <item name="deep_purple" type="color">#673AB7</item>
+    <item name="indigo" type="color">#3F51B5</item>
+    <item name="blue" type="color">#2196F3</item>
+    <item name="light_blue" type="color">#03A9F4</item>
+    <item name="cyan" type="color">#00BCD4</item>
+    <item name="teal" type="color">#009688</item>
+    <item name="green" type="color">#4CAF50</item>
+    <item name="light_green" type="color">#8BC34A</item>
+    <item name="lime" type="color">#CDDC39</item>
+    <item name="yellow" type="color">#FFEB3B</item>
+    <item name="amber" type="color">#FFC107</item>
+    <item name="orange" type="color">#FF9800</item>
+    <item name="deep_orange" type="color">#FF5722</item>
+    <item name="brown" type="color">#795548</item>
+    <item name="grey" type="color">#9E9E9E</item>
+    <item name="blue_grey" type="color">#607D8B</item>
+
+</resources>
