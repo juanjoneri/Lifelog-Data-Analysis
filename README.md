@@ -5,4 +5,6 @@
 
 
 ### Let some image of the user interface speak from themselves
-![Icon of the app](http://juanjoneri.me/img/Lifelog/Screen_Details Activity.png) ![Icon of the app](http://juanjoneri.me/img/Lifelog/Screen_Main Activity.png)
+| Main Screen | Logging details |
+| - | - |
+![](http://juanjoneri.me/img/Lifelog/Screen_Main Activity.png) | ![](http://juanjoneri.me/img/Lifelog/Screen_Details Activity.png)
