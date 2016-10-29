@@ -14,6 +14,8 @@
  - use of API 22 animations
  - Thanks to google material design icons which make up 99% of the interface!
 
-### Let some image of the user interface speak from themselves
+<hr>
+
+### Let some images of the user interface speak for themselves
 <br>
 <img src="http://juanjoneri.me/img/Lifelog/Screen_Main Activity.png" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/backup.png" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/price.png" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/Screen_Details Activity.png" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/custom.png" width="250"/>
