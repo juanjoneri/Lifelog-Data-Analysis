@@ -7,4 +7,4 @@
 ### Let some image of the user interface speak from themselves
 | Main Screen | Logging details |
 | - | - |
-![](http://juanjoneri.me/img/Lifelog/Screen_Main Activity.png) | ![](http://juanjoneri.me/img/Lifelog/Screen_Details Activity.png)
+| ![](http://juanjoneri.me/img/Lifelog/Screen_Main Activity.png) | ![](http://juanjoneri.me/img/Lifelog/Screen_Details Activity.png) |
