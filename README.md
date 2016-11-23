@@ -18,4 +18,7 @@
 
 ### Let some images of the user interface speak for themselves
 <br>
-<img src="http://juanjoneri.me/img/Lifelog/Screen_Main Activity.png" hspace="10" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/backup.png" hspace="20" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/price.png" hspace="20" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/Screen_Details Activity.png" hspace="20" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/custom.png" hspace="20" width="250"/>
+<img src="http://juanjoneri.me/img/Lifelog/Screen_Main Activity.png" hspace="10" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/backup.png" hspace="20" width="250"/> <img src="http://juanjoneri.me/img/Lifelog/price.png" hspace="20" width="250"/> 
+<br>
+<img src="http://juanjoneri.me/img/Lifelog/Screen_Details Activity.png" hspace="20" width="250"/> 
+<img src="http://juanjoneri.me/img/Lifelog/custom.png" hspace="20" width="250"/>
