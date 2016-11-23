@@ -7,11 +7,11 @@
 ## Personal Android app project to keep track of every day expenses
  - Keep track of expenses, activities, routines.
  - Backup them using Dropbox API
- - Easily Analyze .db SQL generated database in you pc *Personally I use Mathematica*
+ - Easily Analyze .db SQLite generated database in you pc *(in my case using Mathematica)*
 
 ## Features
- - Interesting implementation of android material design
- - use of API 22 animations
+ - Implementation of android material design
+ - Use of API 22 activity transition animations
  - Thanks to google material design icons which make up 99% of the interface!
 
 <hr>
