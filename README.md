@@ -17,7 +17,7 @@
 ## Data
 This is what the data looks like:
 <p><br></p>
-<img src="http://juanjoneri.me/img/Lifelog/Data.png"/>
+<img src="http://juanjoneri.me/img/Lifelog/Data.PNG"/>
 <hr>
 
 ### Let some images of the user interface speak for themselves
