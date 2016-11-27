@@ -16,7 +16,6 @@
 
 ## Data
 This is what the data looks like:
-<p><br></p>
 <img src="http://juanjoneri.me/img/Lifelog/Data.PNG"/>
 <hr>
 
