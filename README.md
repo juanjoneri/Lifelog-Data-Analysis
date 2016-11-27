@@ -14,6 +14,10 @@
  - Use of API 22 activity transition animations
  - Thanks to google material design icons which make up 99% of the interface!
 
+## Data
+This is what the data looks like:
+<p><br></p>
+<img src="http://juanjoneri.me/img/Lifelog/Data.png"/>
 <hr>
 
 ### Let some images of the user interface speak for themselves
