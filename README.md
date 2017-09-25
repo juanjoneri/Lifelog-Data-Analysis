@@ -16,7 +16,7 @@
 
 ## Data
 This is what the data looks like:
-<img src="http://juanjoneri.me/img/Lifelog/Data.PNG"/>
+<img src="http://juanjoneri.com/img/Lifelog/Data.PNG"/>
 <hr>
 
 ### Let some images of the user interface speak for themselves
