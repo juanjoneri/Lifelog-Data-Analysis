@@ -1,5 +1,5 @@
 # Lifelog-data-analysis
-![Icon of the app](http://juanjoneri.me/img/Lifelog/lifelog_ic_launcher.png)
+![Icon of the app](http://juanjoneri.com/img/Lifelog/lifelog_ic_launcher.png)
 
 **Download APK above!**
 *Requires API 21 or higher*
