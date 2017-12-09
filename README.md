@@ -24,29 +24,22 @@ This is what the data looks like:
 <table style="width:100%;">
 <tr>
 	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/Screen_Main Activity.png" width="200" />
+		<img src="http://juanjoneri.com/img/Lifelog/Screen_Main Activity.png" width="300" />
 	</td>
 	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/backup.png" width="200" />
+		<img src="http://juanjoneri.com/img/Lifelog/backup.png" width="300" />
 	</td>
   	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/price.png" width="200" />
+		<img src="http://juanjoneri.com/img/Lifelog/price.png" width="300" />
 	</td>
 </tr>
 <tr>
 	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/Screen_Details Activity.png" width="200" />
+		<img src="http://juanjoneri.com/img/Lifelog/Screen_Details Activity.png" width="300" />
 	</td>
 	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/custom.png" width="200" />
+		<img src="http://juanjoneri.com/img/Lifelog/custom.png" width="300" />
 	</td>
 
 </tr>
 </table>
-
-<img src="http://juanjoneri.com/img/Lifelog/Screen_Main Activity.png" hspace="20" width="300"/>
-<img src="http://juanjoneri.com/img/Lifelog/backup.png" hspace="20" width="300"/>
-<img src="http://juanjoneri.com/img/Lifelog/price.png" hspace="20" width="300"/> 
-<p><br></p>
-<img src="http://juanjoneri.com/img/Lifelog/Screen_Details Activity.png" hspace="10" width="250"/> 
-<img src="http://juanjoneri.com/img/Lifelog/custom.png" hspace="10" width="250"/>
