@@ -20,10 +20,7 @@ This is what the data looks like:
 <hr>
 
 ### Let some images of the user interface speak for themselves
-<br>
-<img src="http://juanjoneri.com/img/Drone/Screen_brain.png" hspace="20" width="300"/>
-<img src="http://juanjoneri.com/img/Drone/Screen_brain_2.png" hspace="20" width="300"/>
-<br>
+
 <img src="http://juanjoneri.com/img/Lifelog/Screen_Main Activity.png" hspace="20" width="300"/>
 <img src="http://juanjoneri.com/img/Lifelog/backup.png" hspace="20" width="300"/>
 <img src="http://juanjoneri.com/img/Lifelog/price.png" hspace="20" width="300"/> 
