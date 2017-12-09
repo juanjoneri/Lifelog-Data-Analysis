@@ -21,6 +21,28 @@ This is what the data looks like:
 
 ### Let some images of the user interface speak for themselves
 
+<table style="width:100%;">
+	<tr>
+		<th>1</th>
+		<th>2</th>
+  <th>3</th>
+	</tr>
+	<tr>
+		<td>
+			<img src="http://juanjoneri.com/img/Lifelog/Screen_Main Activity.png"
+				width="200" />
+		</td>
+		<td>
+			<img src="http://juanjoneri.com/img/Lifelog/backup.png"
+				width="200" />
+		</td>
+  <td>
+			<img src="http://juanjoneri.com/img/Lifelog/price.png"
+				width="200" />
+		</td>
+	</tr>
+</table>
+
 <img src="http://juanjoneri.com/img/Lifelog/Screen_Main Activity.png" hspace="20" width="300"/>
 <img src="http://juanjoneri.com/img/Lifelog/backup.png" hspace="20" width="300"/>
 <img src="http://juanjoneri.com/img/Lifelog/price.png" hspace="20" width="300"/> 
