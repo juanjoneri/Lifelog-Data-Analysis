@@ -38,7 +38,7 @@ This is what the data looks like:
 		<img src="http://juanjoneri.github.io/img/Lifelog/Screen_Details Activity.png" width="300" />
 	</td>
 	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/custom.png" width="300" />
+		<img src="http://juanjoneri.github.io/img/Lifelog/custom.png" width="300" />
 	</td>
 
 </tr>
