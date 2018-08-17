@@ -1,5 +1,5 @@
 # Lifelog-data-analysis
-![Icon of the app](http://juanjoneri.com/img/Lifelog/lifelog_ic_launcher.png)
+![Icon of the app](http://juanjoneri.github.io/img/Lifelog/lifelog_ic_launcher.png)
 
 **Download APK above!**
 *Requires API 21 or higher*
@@ -24,18 +24,18 @@ This is what the data looks like:
 <table style="width:100%;">
 <tr>
 	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/Screen_Main Activity.png" width="300" />
+		<img src="http://juanjoneri.github.io/img/Lifelog/Screen_Main Activity.png" width="300" />
 	</td>
 	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/backup.png" width="300" />
+		<img src="http://juanjoneri.github.io/img/Lifelog/backup.png" width="300" />
 	</td>
   	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/price.png" width="300" />
+		<img src="http://juanjoneri.github.io/img/Lifelog/price.png" width="300" />
 	</td>
 </tr>
 <tr>
 	<td>
-		<img src="http://juanjoneri.com/img/Lifelog/Screen_Details Activity.png" width="300" />
+		<img src="http://juanjoneri.github.io/img/Lifelog/Screen_Details Activity.png" width="300" />
 	</td>
 	<td>
 		<img src="http://juanjoneri.com/img/Lifelog/custom.png" width="300" />
